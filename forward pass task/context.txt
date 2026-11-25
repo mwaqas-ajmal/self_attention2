@@ -1,0 +1,2 @@
+in this code we make a self attention which have four steps: similarity scaling masking and output 
+Yeh code Query aur Key ki similarity nikal kar, usay scale aur normalize karta hai, aur phir Value ke sath multiply karke final context vector banata hai
